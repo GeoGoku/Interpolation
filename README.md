@@ -6,3 +6,4 @@ code related to paper "TSE interpolation"
 “gridded data-1000-land survey-YIli.txt” presents the gridded data with a 1000 m grid interval. this is treated as a benchmark
 “gridded data-500-land survey-YIli.txt” presents the gridded data with a 500 m grid interval. this is treated as a benchmark
 “gridded data-200-land survey-YIli.txt” presents the gridded data with a 200 m grid interval. this is treated as a benchmark
+
