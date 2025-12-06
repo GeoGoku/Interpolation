@@ -1,7 +1,7 @@
 # GeoGoku-Interpolation
 If you use this code, please cite the following paper:
 
-Chen, T., & Yang, D. (2021). Potential field data interpolation by Taylor series expansion. Geophysics, 87(2), 1-46.
+Chen, T., & Yang, D. (2022). Potential field data interpolation by Taylor series expansion. Geophysics, 87(2), G15-G27.
 
 Please report any bug to geogoku@aliyun.com
 
